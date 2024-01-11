@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <title>Daksha Global Hire</title>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta content="" name="keywords">
+        <meta content="" name="description">
+        <link rel="icon" href="./img/Daksha_logo.png" type="image/png">
+
+        <!-- Google Web Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Saira:wght@500;600;700&display=swap" rel="stylesheet"> 
+
+        <!-- Icon Font Stylesheet -->
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+        <!-- Libraries Stylesheet -->
+        <link href="lib/animate/animate.min.css" rel="stylesheet">
+        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+        <!-- Customized Bootstrap Stylesheet -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Template Stylesheet -->
+        <link href="css/style.css" rel="stylesheet">
+        <script src="https://kit.fontawesome.com/55287b7042.js" crossorigin="anonymous"></script>
+
+    </head>
+
+    <body>
+        <!-- Spinner Start -->
+        <div id="spinner" class="show position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+            <div class="spinner-grow text-primary" role="status"></div>
+        </div>
+        <!-- Spinner End -->
+
+
+
+        <!-- Whatsapp icon -->
+
+    <a  class="whats-app" href="https://wa.me/8137042417" target="_blank">
+        <i class="fa fa-whatsapp my-float"></i>
+    </a>
+
+
+
+
+
+
+
+
+
+
+
+        <!-- Topbar Start -->
+        <div class="container-fluid bg-dark py-2 d-none d-md-flex">
+            <div class="container">
+                <div class="d-flex justify-content-between topbar">
+                    <div class="top-info">
+                        <small class="me-3 text-white-50"><a href="#"><i class="fas fa-envelope me-2 " style="color: #0d9e58;"></i></a>dakshaglobalhire@gmail.com</small>
+                    </div>
+                    <div id="note" class="d-none d-xl-flex" style="color: #0d9e58;"><small>Note : We help you to Grow your Future</small></div>
+                    <div class="top-link">
+                        <a href="https://www.facebook.com/profile.php?id=61555411076268&mibextid=vk8aRt" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-facebook-f text-primary"></i></a>
+                        <a href="https://x.com/DakshaGlobal" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-twitter text-primary"></i></a>
+                        <a href="https://www.instagram.com/daksha_global_hire" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-instagram text-primary"></i></a>
+                        <a href="https://www.linkedin.com/in/daksha-global-hire-7097a62a8" class="bg-light nav-fill btn btn-sm-square rounded-circle me-0"><i class="fab fa-linkedin-in text-primary"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Topbar End -->
+
+
+
+
+
+
+
+
+
+        <!-- Navbar Start -->
+        <div class="container-fluid" style="background-color:#1f1f1f">
+            <div class="container">
+                <nav class="navbar navbar-dark navbar-expand-lg py-0">
+                    <a href="index.php" class="navbar-brand">
+                        <img src="img/Daksha_logo.png" alt="Logo" style="width: 80px;height: 80px;">
+                    </a>
+                    <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse bg-transparent" id="navbarCollapse">
+                        <div class="navbar-nav ms-auto mx-xl-auto p-0">
+                            <a href="index.php" class="nav-item nav-link active" style="color: #0d9e58;">Home</a>
+                            <a href="#about" class="nav-item nav-link">About</a>
+                            <a href="#services" class="nav-item nav-link">Services</a>
+                            <a href="#blog" class="nav-item nav-link">Testimonial</a>
+                            
+                            <a href="#contact" class="nav-item nav-link">Contact</a>
+                        </div>
+                    </div>
+                    <div class="d-none d-xl-flex flex-shirink-0">
+                        <div id="phone-tada" class="d-flex align-items-center justify-content-center me-4">
+                            <a href="" class="position-relative animated tada infinite">
+                                <i class="fa fa-phone-alt text-white fa-2x"></i>
+                                <div class="position-absolute" style="top: -7px; left: 20px;">
+                                    <span><i class="fa fa-comment-dots" style="color: #0d9e58;"></i></span>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="d-flex flex-column pe-4 border-end">
+                            <span class="text-white-50">Have any questions?</span>
+                            <span style="color: #0d9e58;">Call: <a href="tel:+91 8137042417" style="color: #0d9e58;">+91 8137042417</a>  </span>
+                        </div>
+                        <div class="d-flex align-items-center justify-content-center ms-4 ">
+                            <a href="#services"><i class="bi bi-search text-white fa-2x"></i> </a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <!-- Navbar End -->
+
+
+
+
+
+
+        <!-- Carousel Start -->
+        <div class="container-fluid px-0">
+            <div id="carouselId" class="carousel slide" data-bs-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-bs-target="#carouselId" data-bs-slide-to="0" class="active" aria-current="true" aria-label="First slide"></li>
+                    <li data-bs-target="#carouselId" data-bs-slide-to="1" aria-label="Second slide"></li>
+                </ol>
+                <div class="carousel-inner" role="listbox">
+                    <div class="carousel-item active">
+                        <img src="img/cover1.jpg" class="img-fluid" alt="First slide">
+                        <div class="carousel-caption">
+                            <div class="container carousel-content">
+                                <h6 class=" h4 animated fadeInUp"style="color: #0d9e58;">DAKSHA GLOBAL HIRE</h6>
+                                <h1 class="text-white display-3 mb-4 animated fadeInRight" >One Step To Your Future Starts Here.</h1>
+                                <p class="mb-4 text-white fs-5 animated fadeInDown">Our mission is to stand by you in ups and downs until you come out with flying colours in life.</p>
+                                <a href="#about" class="me-2"><button type="button" class="px-4 py-sm-3 px-sm-5 btn  rounded-pill carousel-content-btn1 animated fadeInLeft" style="background-color: #0d9e58;">Read More</button></a>
+                                <a href="#contact" class="ms-2"><button type="button" class="px-4 py-sm-3 px-sm-5 btn  rounded-pill carousel-content-btn2 animated fadeInRight" style="background-color: #047083;">Contact Us</button></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="img/cover2.jpg" class="img-fluid" alt="Second slide">
+                        <div class="carousel-caption">
+                            <div class="container carousel-content">
+                                <h6 class=" h4 animated fadeInUp" style="color: #0d9e58;">DAKSHA GLOBAL HIRE</h6>
+                                <h1 class="text-white display-3 mb-4 animated fadeInLeft">Study abroad and redefine your future.</h1>
+                                <p class="mb-4 text-white fs-5 animated fadeInDown">Studying abroad is always the best way to discover yourself.</p>
+                                <a href="#about" class="me-2"><button type="button" class="px-4 py-sm-3 px-sm-5 btn  rounded-pill carousel-content-btn1 animated fadeInLeft" style="background-color: #0d9e58;">Read More</button></a>
+                                <a href="#contact" class="ms-2"><button type="button" class="px-4 py-sm-3 px-sm-5 btn  rounded-pill carousel-content-btn2 animated fadeInRight" style="background-color: #047083;">Contact Us</button></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselId" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselId" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+        <!-- Carousel End -->
+
+
+        
+
+
+        <!-- About Start -->
+        <div class="container-fluid py-5 my-5" id="about">
+            <div class="container pt-5">
+                <div class="row g-5">
+                    <div class="col-lg-5 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".3s">
+                        <div class="h-100 position-relative">
+                            <img src="img/about-1.jpg" class="img-fluid w-75 rounded" alt="" style="margin-bottom: 25%;">
+                            <div class="position-absolute w-75" style="top: 25%; left: 25%;">
+                                <img src="img/about-2.jpg" class="img-fluid w-100 rounded" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-7 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".5s">
+                        <h5 style="color: var(--blue);">About Us</h5>
+                        <h1 class="mb-4">About Daksha Global Hire</h1>
+                        <p>Daksha global hire is a one stop solution for all your queries regarding career.We are here to support  your dreams irrespective of your socio-economic background.Studying abroad is always the best way to discover yourself.Join us for a better future.</p>
+                        <p class="mb-4">We redefine your career path for a strong future with the right programs to Top Universities and right countries for stay back options.Are you a student looking for higher studies in foreign countries and confused about the steps to be taken? Your solution is right here. We give wings to your study abroad dreams.
+
+                            Daksha Global Hire will also help you to find a job which suits your qualification.We are here for all support and assistance</p>
+                        <a href="#services" class="btn btn-secondary rounded-pill px-5 py-3 text-white" style="background-color: #0d9e58;">More Details</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- About End -->
+
+
+        <!-- Services Start -->
+        <div class="container-fluid services py-5 mb-5" id="services">
+            <div class="container">
+                <div class="text-center mx-auto pb-5 wow fadeIn" data-wow-delay=".3s" style="max-width: 600px;">
+                    <h5 style="color: var(--blue);">Our Services</h5>
+                    <h1>Services Built Specifically For Your Future</h1>
+                </div>
+                <div class="row g-5 services-inner">
+                    <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                        <div class="services-item bg-light">
+                            <div class="p-4 text-center services-content">
+                                <div class="services-content-icon">
+                                    <img src="./img/i1.jpg" alt="img" class="card-img img-fluid">
+                                    <h4 class="mb-3 mt-3">Study Abroad</h4>
+                                    <p class="mb-4">Gain maturity and be the best version of yourself.
+                                        You will learn independence and other essential life skills outside your comfort zone. </p>
+                                    <a href="study_abroad.php" class="btn  text-white px-5 py-3 rounded-pill" style="background-color: #0d9e58;">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+                        <div class="services-item bg-light">
+                            <div class="p-4 text-center services-content">
+                                <div class="services-content-icon">
+                                    <img src="./img/i2.jpg" alt="img" class="card-img img-fluid">
+                                    <h4 class="mb-3 mt-3">Professional Courses</h4>
+                                    <p class="mb-4">Earn a career credential, apply your knowledge to hands-on projects that showcase your skills for employers, and get access to job search resource.</p>
+                                    <a href="professional_courses.php" class="btn  text-white px-5 py-3 rounded-pill" style="background-color: #0d9e58;">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                        <div class="services-item bg-light">
+                            <div class="p-4 text-center services-content">
+                                <div class="services-content-icon">
+                                    <img src="./img/i3.jpg" alt="img" class="card-img img-fluid">
+                                    <h4 class="mb-3 mt-3">Education all over India</h4>
+                                    <p class="mb-4">Gain maturity and be the best version of yourself. We provide you the best courses from the best colleges in india.Learn from the top colleges in india.</p>
+                                    <a href="education_india.php" class="btn  text-white px-5 py-3 rounded-pill" style="background-color: #0d9e58;">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                        <div class="services-item bg-light">
+                            <div class="p-4 text-center services-content">
+                                <div class="services-content-icon">
+                                    <img src="./img/i4.jpg" alt="img" class="card-img img-fluid">
+                                    <h4 class="mb-3 mt-3">Certificate Programs</h4>
+                                    <p class="mb-4">Short term certificate programs of 3 to 6 months.choose your career from wide varieties of subjects.Get 100% job assistance.</p>
+                                    <a href="certificate_programs.php" class="btn  text-white px-5 py-3 rounded-pill" style="background-color: #0d9e58;">Read More</a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+                        <div class="services-item bg-light">
+                            <div class="p-4 text-center services-content">
+                                <div class="services-content-icon">
+                                    <!-- <i class="fa fa-envelope-open fa-7x mb-4" style="color:#047083;"></i> -->
+                                    <img src="./img/i6.jpg" alt="img" class="card-img img-fluid">
+                                    <h4 class="mb-3 mt-3">Job Opportunities</h4>
+                                    <p class="mb-4">Explore opportunities to work among the best companies in India and other countries..we provide the latest job vacancies here.</p>
+                                    <a href="job_opportunities.php" class="btn  text-white px-5 py-3 rounded-pill" style="background-color: #0d9e58;">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                        <div class="services-item bg-light">
+                            <div class="p-4 text-center services-content">
+                                <div class="services-content-icon">
+                                    <!-- <i class="fas fa-laptop fa-7x mb-4" style="color:#047083;"></i> -->
+                                    <img src="./img/i5.jpeg" alt="img" class="card-img img-fluid">
+                                    <h4 class="mb-3 mt-3">Abroad Jobs</h4>
+                                    <p class="mb-4">Are you looking to work abroad to enhance your earning prospects? If yes, you have come to the right place..Here we provide the best opportunities.</p>
+                                    <a href="abroad_jobs.php" class="btn  text-white px-5 py-3 rounded-pill" style="background-color: #0d9e58;">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Services End -->
+
+
+
+        <!-- Testimonial Start -->
+        <div class="container-fluid testimonial py-5 mb-5" id="client">
+            <div class="container">
+                <div class="text-center mx-auto pb-5 wow fadeIn" data-wow-delay=".3s" style="max-width: 600px;">
+                    <h5 style="color: var(--blue);">Our Testimonial</h5>
+                    <h1>Our Client Saying!</h1>
+                </div>
+                <div class="owl-carousel testimonial-carousel wow fadeIn" data-wow-delay=".5s">
+                    <div class="testimonial-item border p-4">
+                        <div class="d-flex align-items-center">
+                            <div class="">
+                                <img src="img/adminprofile.jpeg" alt="img" height="100px">
+                            </div>
+                            <div class="ms-4">
+                                <h4 style="color: var(--green);">Sarah M.</h4>
+                                <div class="d-flex pe-5">
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="border-top mt-4 pt-3">
+                            <p class="mb-0">"I had high expectations when I decided to study abroad, and Daksha exceeded them all. The team's commitment to ensuring a smooth application process, providing insightful advice, and the ongoing assistance even after arrival was impressive. My time abroad has been transformative, and I credit Daksha for being an invaluable partner in this journey."</p>
+                        </div>
+                    </div>
+                    <div class="testimonial-item border p-4">
+                        <div class=" d-flex align-items-center">
+                            <div class="">
+                                <img src="img/adminprofile.jpeg" alt="img" height="100px">
+                            </div>
+                            <div class="ms-4">
+                                <h4 style="color: var(--green);">Maria S.</h4>
+                                <div class="d-flex pe-5">
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="border-top mt-4 pt-3">
+                            <p class="mb-0">"Moving abroad for a job was a major decision, and I couldn't have done it without the incredible support from Daksha. From the initial consultation to the final offer, their expertise in international job placement was evident. I am now thriving in my new role, and I'm grateful for the personalized guidance and support that Daksha provided throughout the entire process."</p>
+                        </div>
+                    </div>
+                    <div class="testimonial-item border p-4">
+                        <div class=" d-flex align-items-center">
+                            <div class="">
+                                <img src="img/adminprofile.jpeg" alt="img" height="100px">
+                            </div>
+                            <div class="ms-4">
+                                <h4 style="color: var(--green);">James L.</h4>
+                                <div class="d-flex pe-5">
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="border-top mt-4 pt-3">
+                            <p class="mb-0">"Transitioning to a job abroad can be challenging, but with Daksha, it was a seamless experience. The team understood my career goals and found opportunities that aligned perfectly. Their assistance with visa procedures and cultural integration made the relocation process much smoother. I highly recommend Daksha for anyone looking to advance their career on an international level."</p>
+                        </div>
+                    </div>
+                    <div class="testimonial-item border p-4">
+                        <div class=" d-flex align-items-center">
+                            <div class="">
+                                <img src="img/adminprofile.jpeg" alt="img" height="100px">
+                            </div>
+                            <div class="ms-4">
+                                <h4 style="color: var(--green);">Rajesh K.</h4>
+                                <div class="d-flex pe-5">
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                    <i class="fas fa-star me-1 " style="color: var(--blue);"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="border-top mt-4 pt-3">
+                            <p class="mb-0">"Studying in India has been a holistic experience for me. The environment at Study World College of Engineering Coimbatore allowed me to learn not just from textbooks but from people of varied backgrounds. The emphasis on practical learning and industry exposure has been instrumental in my academic growth. I am proud to be part of an education system that values both tradition and innovation."</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Testimonial End -->
+
+
+        <!-- Contact Start -->
+        <div class="container-fluid py-5 mb-5" id="contact">
+            <div class="container">
+                
+                <div class="contact-detail position-relative p-5">
+                   
+                    <div class="row g-5">
+                        <div class="col-lg-6 wow fadeIn" data-wow-delay=".3s">
+                            <div class="p-5 h-100 rounded contact-map">
+                                <iframe class="rounded w-100 h-100" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3921.1851442998955!2d76.18411807451565!3d10.642720461646807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTDCsDM4JzMzLjgiTiA3NsKwMTEnMTIuMSJF!5e0!3m2!1sen!2sin!4v1704721445915!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 wow fadeIn" data-wow-delay=".5s">
+                            <form class="p-5 rounded contact-form" method="post" action="send.php">
+                                <div class="mb-4">
+                                    <input type="text" class="form-control border-0 py-3" placeholder="Your Name" name="username">
+                                </div>
+                                <div class="mb-4">
+                                    <input type="email" class="form-control border-0 py-3" placeholder="Your Email" name="usermail">
+                                </div>
+                                <div class="mb-4">
+                                    <input type="text" class="form-control border-0 py-3" placeholder="Your Phone" name="userphone">
+                                </div>
+                                <div class="mb-4">
+                                    <textarea class="w-100 form-control border-0 py-3" rows="6" cols="10" placeholder="Service you want to know" name="usermessage"></textarea>
+                                </div>
+                                <div class="text-start">
+                                    <button class="btn text-white py-3 px-5" style="background: var(--blue);" type="submit" name="send">Send Message</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+        </div>
+        <!-- Contact End -->
+
+
+        <!-- Footer Start -->
+         <div class="container-fluid footer bg-dark wow fadeIn" data-wow-delay=".3s">
+            <div class="container pt-5 pb-4">
+                <div class="row g-5">
+                    <div class="col-lg-3 col-md-6">
+                        <a href="index.php">
+                            <img src="img/Daksha--logo.png" alt="Logo" style="width: 200px;height: 150px;" class="mt-4">
+
+                        </a>
+                        
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <a href="#" class="h3" style="color: var(--green);">Short Link</a>
+                        <div class="mt-4 d-flex flex-column short-link">
+                            <a href="#about" class="mb-2 text-white"><i class="fas fa-angle-right me-2" style="color: var(--green);"></i>About us</a>
+                            <a href="#contact" class="mb-2 text-white"><i class="fas fa-angle-right me-2" style="color: var(--green);"></i>Contact us</a>
+                            <a href="#services" class="mb-2 text-white"><i class="fas fa-angle-right me-2" style="color: var(--green);"></i>Our Services</a>
+                            <a href="#client" class="mb-2 text-white"><i class="fas fa-angle-right me-2" style="color: var(--green);"></i>Testimonials</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <a href="#" class="h3" style="color: var(--green);">Help Link</a>
+                        <div class="mt-4 d-flex flex-column help-link">
+                            <a href="" class="mb-2 text-white"><i class="fas fa-angle-right me-2" style="color: var(--green);"></i>Terms Of conditions</a>
+                            <a href="" class="mb-2 text-white"><i class="fas fa-angle-right me-2" style="color: var(--green);"></i>Privacy Policy</a>
+                            <a href="" class="mb-2 text-white"><i class="fas fa-angle-right me-2" style="color: var(--green);"></i>Helps</a>
+                            <a href="" class="mb-2 text-white"><i class="fas fa-angle-right me-2" style="color: var(--green);"></i>FAQs</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <a href="#" class="h3" style="color: var(--green);">Contact Us</a>
+                        <div class="text-white mt-4 d-flex flex-column contact-link">
+                            <a href="#" class="pb-2 text-light border-bottom border-primary"><i class="fas fa-map-marker-alt me-2" style="color: var(--green);"></i>Mundathicode,Thrissur</a>
+                            <a href="#" class="py-2 text-light border-bottom border-primary"><i class="fas fa-phone-alt me-2" style="color: var(--green);"></i>+91 8137042417</a>
+                            <a href="#" class="py-2 text-light border-bottom border-primary"><i class="fas fa-envelope me-2" style="color: var(--green);"></i>dakshaglobalhire@gmail.com</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="d-flex hightech-link justify-content-center m-3">
+                    <a href="https://www.facebook.com/profile.php?id=61555411076268&mibextid=vk8aRt" class="btn-light nav-fill btn btn-square rounded-circle me-2"><i class="fab fa-facebook-f " style="color: var(--green);"></i></a>
+                    <a href="https://x.com/DakshaGlobal" class="btn-light nav-fill btn btn-square rounded-circle me-2"><i class="fab fa-twitter " style="color: var(--green);"></i></a>
+                    <a href="https://www.instagram.com/daksha_global_hire" class="btn-light nav-fill btn btn-square rounded-circle me-2"><i class="fab fa-instagram " style="color: var(--green);"></i></a>
+                    <a href="https://www.linkedin.com/in/daksha-global-hire-7097a62a8" class="btn-light nav-fill btn btn-square rounded-circle me-0"><i class="fab fa-linkedin-in " style="color: var(--green);"></i></a>
+                </div>
+                
+            </div>
+        </div>
+        <!-- Footer End -->
+
+
+        <!-- Back to Top -->
+        <a href="#" class="btn btn-square rounded-circle back-to-top" style="background: var(--green);"><i class="fa fa-arrow-up text-white"></i></a>
+
+        
+        <!-- JavaScript Libraries -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="lib/wow/wow.min.js"></script>
+        <script src="lib/easing/easing.min.js"></script>
+        <script src="lib/waypoints/waypoints.min.js"></script>
+        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+        <!-- Template Javascript -->
+        <script src="js/main.js"></script>
+    </body>
+
+</html>
