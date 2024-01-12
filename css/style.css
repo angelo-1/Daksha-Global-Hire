@@ -1,4 +1,25 @@
-/*** Spinner Start ***/
+
+
+.whats-app {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    left: 15px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    /* box-shadow: 2px 2px 3px #999; */
+    z-index: 100;
+  }
+  
+  .my-float {
+    margin-top: 15px;
+  }
+
+
 
 #spinner {
     opacity: 0;
@@ -483,7 +504,7 @@
 /*** Team Start ***/
 
 .team-item {
-    border-top: 30px solid var(--bs-secondary) !important;
+    border-top: 30px solid var(--green) !important;
     background: rgba(239, 239, 241, 0.8);
 }
 
@@ -493,7 +514,7 @@
     content: "";
     position: relative;
     top: -101px;
-    background: var(--bs-secondary);
+    background: var(--green);
     clip-path: polygon(50% 50%, 100% 50%, 50% 100%, 0% 50%);
     padding: 60px;
     opacity: 1;
@@ -511,18 +532,18 @@
 }
 
 .team-img img {
-    border: 10px solid var(--bs-secondary);
+    border: 10px solid var(--green);
     transition: .5s;
 }
 
 .team-item:hover h4 {
-    color: var(--bs-primary);
+    color: var(--blue);
     transition: .5s;
 }
 
 .team-item:hover .team-img img {
     transform: scale(1.05);
-    border: 10px solid var(--bs-secondary);
+    border: 10px solid var(--green);
 }
 
 .team-carousel .owl-stage {
@@ -544,7 +565,7 @@
     height: 56px;
     border-radius: 56px;
     margin-left: 15px;
-    background: var(--bs-secondary);
+    background: var(--green);
     color: var(--bs-white);
     display: flex;
     align-items: center;
@@ -554,7 +575,7 @@
 
 .team-carousel .owl-nav .owl-prev:hover,
 .team-carousel .owl-nav .owl-next:hover {
-    background: var(--bs-primary);
+    background: var(--blue);
     color: var(--bs-white);
 }
 
@@ -602,7 +623,7 @@
 
 .testimonial-carousel .owl-dot.active {
     width: 30px;
-    background: var(--bs-primary);
+    background: var(--blue);
 }
 
 .testimonial-carousel .owl-item.center {
@@ -637,11 +658,11 @@
 }
 
 .contact-map {
-    background: #26d48c;
+    background: var(--green);
 }
 
 .contact-form {
-    background: #26d48c;
+    background: var(--green);
 }
 
 /*** Contact End ***/
@@ -662,7 +683,7 @@
 }
 
 .footer .hightech-link a:hover {
-    background: var(--bs-secondary);
+    background: var(--blue);
     border: 0;
 }
 
